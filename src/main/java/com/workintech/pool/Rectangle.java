@@ -25,7 +25,7 @@ public class Rectangle {
         if (length < 0) {
             this.length = 0;
         } else {
-            this.length = width;
+            this.length = length;
         }
 
     }
